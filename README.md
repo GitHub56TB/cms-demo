@@ -1,6 +1,14 @@
 GitHub Ultimate Master Git and GitHub - Beginner to Expert
 #Training 
 
+Change "origin" ==> master (or another main name for remote push
+
+##EAMPLE
+git remote add master https://github.com/xyz/cms-demo.git
+git branch -M main
+git push -u master main
+
+
 
 pwd Command ==> current directory PATH
 git init		(Need To Be Inside Working Directory)
