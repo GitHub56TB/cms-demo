@@ -9,7 +9,6 @@ git branch -M main
 git push -u master main
 
 
-
 pwd Command ==> current directory PATH
 git init		(Need To Be Inside Working Directory)
 git add .
@@ -26,12 +25,6 @@ pwd
 git config --global alias.hist "log --oneline --graph --decorate --all"
 touch .gitignore 
 mate  .gitignore     	(Add *.log, .DS* Note: 1 per line)
-
-git remote add origin https://github.com/GitHub56TB/demo21.git
-git branch -M main
-
-git push -u origin main
-GitHub56TB
 
 
 git status
